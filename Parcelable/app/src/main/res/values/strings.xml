@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Parcelable</string>
+
+    <string name="first_name">First name</string>
+    <string name="lastname">LastName</string>
+    <string name="grade">grade</string>
+    <string name="send">Send</string>
+</resources>
