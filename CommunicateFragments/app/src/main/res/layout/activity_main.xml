@@ -13,9 +13,9 @@
         android:text="Hello World!" />
 
     <fragment
-        android:name="com.example.aptivist_u002.communicatefragments.BlueFragment"
+        android:name="com.example.aptivist_u002.communicatefragments.PinkFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:tag="BLUE_FRAGMENT"/>
+        android:tag="PINK_FRAGMENT"/>
 
 </LinearLayout>
