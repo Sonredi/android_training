@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="httpurlconnection">HttpUrlConnection</string>
+    <string name="okhttp">OkHttp</string>
+    <string name="retrofit">Retrofit</string>
+    <string name="retrofit_list">Retrofit List</string>
+    <string name="list_activity">List Activity</string>
+    <string name="volley">Volley</string>
+</resources>
